@@ -165,7 +165,6 @@ To prevent mechanism singularity and link crossing during continuous trajectory 
 │   ├── ik_solutions.png             # Four IK assembly modes
 │   ├── tracking_simulation.png      # Interactive tracking visualization
 │   └── workspace_analysis.png       # Feasible workspace boundary map
-├── SS/                              # Original full-resolution CAD renders
 ├── 5r_cad_model/                    # CAD assemblies, part files, and ROS packages
 │   ├── Main.SLDASM                  # Master SolidWorks assembly
 │   ├── main_5r_step.STEP            # Complete STEP export model
