@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Creo and CAD temporary files
+*.creo
+std.out
+*.tmp
+
+# Environments and IDEs
+.env
+.venv
+env/
+venv/
+ENV/
+.vscode/
+.idea/
+
+# OS specific files
+.DS_Store
+Thumbs.db
