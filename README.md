@@ -194,7 +194,7 @@ To prevent mechanism singularity and link crossing during continuous trajectory 
 Clone this repository and install dependencies:
 
 ```bash
-git clone git@github.com:<your-username>/<your-repo-name>.git
+git clone git@github.com:Parthecraftyboy/R5_parallel_arm.git
 cd <your-repo-name>
 pip install -r requirements.txt
 ```
